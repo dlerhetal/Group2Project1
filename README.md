@@ -9,7 +9,8 @@ Sources:
 -https://data.nashville.gov/
 
 Team: 
-Dale Linn
-Hugo Troche
-Ilknur Sekmen
 Josh Gilbert
+Dale Linn
+Ilknur Sekmen
+Hugo Troche
+

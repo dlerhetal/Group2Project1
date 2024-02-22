@@ -4,11 +4,8 @@ We studied Nashville traffic over the course of the last 5 years. The experience
 
 # Sources: 
 -TDOT (https://www.tn.gov/tdot.html)  
-
 -Federal Highway Administration  (https://highways.dot.gov/)   
-
 -Statista (https://www.statista.com/statistics/815653/nashville-metro-area-population/)  
-
 -Nashville Open Data Portal (https://data.nashville.gov/)
 
 
